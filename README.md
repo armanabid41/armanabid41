@@ -1,7 +1,7 @@
 
 <br clear="both">
 
-<h4 align="center">🤖Hey there! Welcome to my little corner of innovation. I'm a passionate EEE student building the future with embedded systems and AI.</h4>
+<h4 align="center">🤖Hey there! Welcome to my little corner of innovation, I'm a passionate EEE student building the future with embedded systems and AI.</h4>
 
 ###
 
@@ -49,13 +49,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=armanabid41&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[armanabid41]/[armanabid41]/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[armanabid41]/[armanabid41]/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[armanabid41]/[armanabid41]/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
