@@ -1,26 +1,27 @@
-name: Generate Pac-Man Contribution Graph
+name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-      - name: Generate Pac-Man Contribution Graph
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Snake Animation
+        uses: arafat-hasan/pacman-contribution-graph@main # Using a well-maintained fork
         with:
-           github_user_name: ${{ github.repository_owner }}
-           github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Commit & Push
-        uses: EndBug/add-and-commit@v7
-        with:
-          author_name: "GitHub Actions"
-          author_email: "actions@github.com"
-          message: "Generate Pac-Man contribution graph"
-          add: "pacman.svg"
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Generate Contribution Snake"
+          git push
