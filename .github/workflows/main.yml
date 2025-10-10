@@ -14,9 +14,8 @@ jobs:
       - name: Generate Pac-Man Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          OUTPUT_FILE_NAME: "pacman.svg"
+           github_user_name: ${{ github.repository_owner }}
+           github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & Push
         uses: EndBug/add-and-commit@v7
