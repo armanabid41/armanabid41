@@ -53,7 +53,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/arman-abid-431b69363?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <a href="www.linkedin.com/in/armanhossainabideee" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/arman.hossain.abid.2024" target="_blank">
