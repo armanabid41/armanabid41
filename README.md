@@ -1,4 +1,3 @@
-
 <br clear="both">
 
 <h4 align="center">👋 Hey there! Welcome to my corner of innovation. I'm a passionate EEE student bridging the gap between Core Engineering and Artificial Intelligence.</h4>
@@ -62,7 +61,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=armanabid41&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=armanabid41&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanabid41&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=armanabid41&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
