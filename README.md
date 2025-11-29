@@ -57,7 +57,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=armanabid41&show_icons=true&theme=dark&hide_border=true&v=1" height="150" alt="stats graph" />
   <img src="https://github-readme-streak-stats.demolab.com/?user=armanabid41&theme=dark&hide_border=true&v=1" height="150" alt="streak graph" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=armanabid41&radius=16&theme=nord&area=true&order=5" height="300" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=armanabid41&radius=16&theme=nord&area=true&order=5" height="250" alt="activity graph" />
 </div>
 
 
