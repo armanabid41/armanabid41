@@ -60,9 +60,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armanabid41&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=armanabid41&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=armanabid41&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=armanabid41&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=armanabid41&theme=dark&hide_border=true" height="150" alt="streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=armanabid41&radius=16&theme=nord&area=true&order=5" height="300" alt="activity graph" />
 </div>
 
 
