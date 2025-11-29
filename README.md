@@ -22,12 +22,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="57" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhjbjI4c2MzanZndzV4cnNmM2R6NmcyNm5na3NreTFqZDlhOXhkOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13S1lWb5qheNBC/giphy.gif"  />
-
-###
-
 <div align="left">
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
